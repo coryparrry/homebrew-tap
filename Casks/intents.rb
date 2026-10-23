@@ -1,6 +1,6 @@
 cask "intents" do
-  version "1.4.0"
-  sha256 "69e5c2e05355224f13b5100a69f37c298b2e8728b5418f4b906293d88b0fc7de"
+  version "1.5.1"
+  sha256 "a443314d291913ec8d9c64e3912e2b9bb668d77d6697050d965c6c6c26b9f0ef"
 
   url "https://github.com/coryparrry/Intents/releases/download/v#{version}/Intents-#{version}-macOS-arm64.dmg"
   name "Intents"
